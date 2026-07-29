@@ -1,4 +1,5 @@
-<img width="2000" height="1037" alt="abhi" src="https://github.com/user-attachments/assets/41125695-40cb-450e-8147-1326f994467a" />
+<img width="1500" height="1000" alt="abhi" src="https://github.com/user-attachments/assets/fce0ac77-fe94-4fa2-904f-39c7d3223083" />
+
 
 ## Hi there 👋
 🔭 I’m currently working on Tech 
