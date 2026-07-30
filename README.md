@@ -33,5 +33,6 @@
 - 📚 Learning: AWS Deployment 
 -  Fun fact: I play football
 -  Creativity - Sketching, Poetry Writing
-! [Visitor Count](https://komarev.com/ghpvc/?username=AbhinavAnand&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
 
