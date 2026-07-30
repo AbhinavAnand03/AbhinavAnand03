@@ -22,7 +22,7 @@
 
 > Enter the realm of shadows and fire — where the **Black Aura Dragon** reigns supreme.
 
-![Black Aura Dragon](https://github.com/yourusername/yourusername/raw/main/images/black-aura-dragon.png)
+![Black Aura Dragon](https://github.com/AbhinavAnand03/AbhinavAnand03/raw/main/images/black-aura-dragon.png)
 
 ### ⚔️ Game Concept
 - 🕹️ **Genre:** Action / Fantasy
@@ -43,6 +43,9 @@ ctx.fillText('🌀 Black Aura Dragon 🐉', 50, 100);
 </script>
 
 
+Just copy and paste this into your `README.md`, and the dragon image will appear beautifully.  
+
+Would you like me to add a **glowing aura animation effect** (using CSS or JavaScript) around the dragon title to make it look alive?
 ## 📅 Current Focus
 - 🔭 Working on: React Projects
 - 📚 Learning: AWS Deployment 
