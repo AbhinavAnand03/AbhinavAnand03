@@ -1,7 +1,3 @@
-<img width="1920" height="1080" alt="coding" src="https://github.com/user-attachments/assets/18e3074a-286b-4e93-b6e2-1c62b90873fa" />
-
-
-
 ## Hi there 👋
 🔭 I’m currently working on My Coding Skills
 <!--
