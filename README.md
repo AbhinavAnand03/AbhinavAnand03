@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🌱 Learning Web Development & Machine Learning
-- 💻 Building projects with React, Python, HTML, CSS, JavaScript and Node.js
+- 💻 Building projects with React, Python, HTML, CSS, and JavaScript 
 - 🎯 Goal: Become a full-stack developer
 
 ## 🛠️ Tech Stack
@@ -11,7 +11,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ## 🌐 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavanandptr456@gmail.com)
