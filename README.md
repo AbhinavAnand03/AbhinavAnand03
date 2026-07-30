@@ -20,7 +20,20 @@
 ## ✨ Enchanted GitHub Stats
 
 <div align="right-corner">
-  <h2 id="glowStats">🌌 Aura‑Infused Stats</h2>
+
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  
+</div>
+
 
 ## 🗣️ Languages I Use
 
