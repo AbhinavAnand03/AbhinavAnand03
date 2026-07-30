@@ -24,8 +24,8 @@
 
 ## 🗣️ Languages I Use
 
-! [Hindi](https://img.shields.io/badge/Hindi-%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-orange?style=for-the-badge)
-! [English](https://img.shields.io/badge/English-blue?style=for-the-badge)
+![Hindi](https://img.shields.io/badge/Hindi-%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-orange?style=for-the-badge)
+![English](https://img.shields.io/badge/English-blue?style=for-the-badge)
 
 ## 🔥 GitHub Streak 
 ## 📅 Current Focus
