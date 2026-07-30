@@ -40,8 +40,26 @@
 ![Hindi](https://img.shields.io/badge/Hindi-%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-orange?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-blue?style=for-the-badge)
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhinavAnand03&theme=dark)
+## 🔥 GitHub Streak — Black Aura Edition
+
+<div align="center">
+  <h2 id="glowTitle">🐉 Black Aura Dragon Streak</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<style>
+#glowTitle {
+  color: purple;
+  text-shadow: 0 0 10px violet, 0 0 20px purple, 0 0 30px magenta;
+  animation: auraGlow 2s infinite alternate;
+}
+
+@keyframes auraGlow {
+  from { text-shadow: 0 0 10px violet, 0 0 20px purple; }
+  to { text-shadow: 0 0 20px magenta, 0 0 40px purple; }
+}
+</style>
+
 
 
 Would you like me to add a **glowing aura animation effect** (using CSS or JavaScript) around the dragon title to make it look alive?
