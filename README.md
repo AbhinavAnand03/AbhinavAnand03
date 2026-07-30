@@ -1,3 +1,25 @@
+## 🐍 Aura‑Infused Contribution Snake
+
+<div align="center">
+  <h2 id="glowSnake">⚡ Aura Snake Animation</h2>
+  
+  <!-- Contribution Snake -->
+  ![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+<style>
+#glowSnake {
+  color: purple;
+  text-shadow: 0 0 10px violet, 0 0 20px purple, 0 0 30px magenta;
+  animation: auraGlow 2s infinite alternate;
+}
+
+@keyframes auraGlow {
+  from { text-shadow: 0 0 10px violet, 0 0 20px purple; }
+  to { text-shadow: 0 0 20px magenta, 0 0 40px purple; }
+}
+</style>
+
 # Hi there 👋, I'm Abhi
 
 ## 🚀 About Me
