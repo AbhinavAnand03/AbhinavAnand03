@@ -23,12 +23,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhinav-anand-407133279/) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abhinavanandptr456@gmail.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinavanandptr456@gmail.com) 
 
-https://github-readme-stats-yourname.vercel.app
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats-yourname.vercel.app/api?username=AbhinavAnand03&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</div>
 
+## 📊 GitHub Stats
 
 ## 🏆 GitHub Trophies
 ![](https://trophygithubreadmelang.cybee.dpdns.org/?username=AbhinavAnand03&theme=darkl&no-frame=false&no-bg=true&margin-w=4)
