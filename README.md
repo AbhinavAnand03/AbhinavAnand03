@@ -24,8 +24,7 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abhinavanandptr456@gmail.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinavanandptr456@gmail.com) 
 
 ## 📊 GitHub Stats:
-![](-https://github-readme-stats.vercel.app/api?username=AbhinavAnand03octocat&theme=radical)
-![](+https://github-stats-extended.vercel.app/api?username=AbhinavAnand03octocat&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AbhinavAnand03&theme=dark)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://trophygithubreadmelang.cybee.dpdns.org/?username=AbhinavAnand03&theme=darkl&no-frame=false&no-bg=true&margin-w=4)
