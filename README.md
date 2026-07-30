@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Abhinav Anand
+# Hi there 👋, I'm Abhi
 
 ## 🚀 About Me
 - 🌱 Learning Web Development & Machine Learning
@@ -17,11 +17,12 @@
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+## 🎨 My Creative Space
+![Abstract Colorful Painting](https://copilot.microsoft.com/th/id/BCO.6d9e10f2-0112-43c8-bf02-d0f4f75836e6.png)
+
 ## 📅 Current Focus
 - 🔭 Working on: React Projects
-- 📚 Learning: AWS Deployment
--  Fun fact: I play football
+- 📚 Learning: AWS Deployment 
+-  Fun fact: I play football 
 ![Visitor Count](https://komarev.com/ghpvc/?username=AbhinavAnand&color=blue)
 
