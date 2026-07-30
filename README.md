@@ -17,9 +17,6 @@
 ![Hindi](https://img.shields.io/badge/Hindi-%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-orange?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-blue?style=for-the-badge)
 
-# 💫 About Me:
-- 🔭 Working on: React Projects<br>- 📚 Learning: AWS Deployment <br>-  Fun fact: I play football ...⚽<br>-  Creativity - Sketching, Poetry Writing ✍
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_darkz02) 
