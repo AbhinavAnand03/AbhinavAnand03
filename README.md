@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Stats:
 ![](-https://github-readme-stats.vercel.app/api?username=octocat&theme=radical)
-![](+https://github-stats-extended.vercel.app/api?username=octocat&theme=radical)
+![](+https://github-stats-extended.vercel.app/api?username=AbhinavAnand03&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 ## 🏆 GitHub Trophies
 ![](https://trophygithubreadmelang.cybee.dpdns.org/?username=AbhinavAnand03&theme=darkl&no-frame=false&no-bg=true&margin-w=4)
