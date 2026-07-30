@@ -32,8 +32,30 @@
 ![CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
-## 📈 GitHub Stats
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhinavAnand03&show_icons=true&theme=radical)
+## ✨ Enchanted GitHub Stats
+
+<div align="center">
+  <h2 id="glowStats">🌌 Aura‑Infused Stats</h2>
+  
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</div>
+
+<style>
+#glowStats {
+  color: purple;
+  text-shadow: 0 0 10px violet, 0 0 20px purple, 0 0 30px magenta;
+  animation: auraGlow 2s infinite alternate;
+}
+
+@keyframes auraGlow {
+  from { text-shadow: 0 0 10px violet, 0 0 20px purple; }
+  to { text-shadow: 0 0 20px magenta, 0 0 40px purple; }
+}
+</style>
 
 ## 🗣️ Languages I Use
 
@@ -62,7 +84,6 @@
 
 
 
-Would you like me to add a **glowing aura animation effect** (using CSS or JavaScript) around the dragon title to make it look alive?
 ## 📅 Current Focus
 - 🔭 Working on: React Projects
 - 📚 Learning: AWS Deployment 
