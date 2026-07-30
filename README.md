@@ -17,24 +17,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://@_darkz02instagram.com/AbhinavAnand03)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/abhinav-anand-407133279/)/in/AbhinavAnand03)
 
-## ✨ Enchanted GitHub Stats
-
-<div align="right-corner">
-
-<div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" alt="GitHub Streak"/>
-  
-</div>
-
-
 ## 🗣️ Languages I Use
 
 ![Hindi](https://img.shields.io/badge/Hindi-%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-orange?style=for-the-badge)
