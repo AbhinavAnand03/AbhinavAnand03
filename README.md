@@ -18,7 +18,30 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
 
 ## 🎨 My Creative Space
-![Abstract Colorful Painting](https://copilot.microsoft.com/th/id/BCO.6d9e10f2-0112-43c8-bf02-d0f4f75836e6.png)
+## 🐉 Black Aura Dragon Game
+
+> Enter the realm of shadows and fire — where the **Black Aura Dragon** reigns supreme.
+
+![Black Aura Dragon](https://github.com/yourusername/yourusername/raw/main/images/black-aura-dragon.png)
+
+### ⚔️ Game Concept
+- 🕹️ **Genre:** Action / Fantasy
+- 🌌 **Theme:** Dark aura energy, dragon battles, mystical landscapes
+- 💎 **Tech Stack:** HTML5 Canvas, JavaScript, CSS animations
+
+### 💻 Sample Code
+```html
+<canvas id="dragonGame"></canvas>
+<script>
+const canvas = document.getElementById('dragonGame');
+const ctx = canvas.getContext('2d');
+ctx.fillStyle = 'black';
+ctx.fillRect(0, 0, canvas.width, canvas.height);
+ctx.font = '30px fantasy';
+ctx.fillStyle = 'purple';
+ctx.fillText('🌀 Black Aura Dragon 🐉', 50, 100);
+</script>
+
 
 ## 📅 Current Focus
 - 🔭 Working on: React Projects
