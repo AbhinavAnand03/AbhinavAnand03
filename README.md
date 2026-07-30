@@ -18,22 +18,6 @@
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
   
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</div>
-
-<style>
-#glowStats {
-  color: purple;
-  text-shadow: 0 0 10px violet, 0 0 20px purple, 0 0 30px magenta;
-  animation: auraGlow 2s infinite alternate;
-}
-
-@keyframes auraGlow {
-  from { text-shadow: 0 0 10px violet, 0 0 20px purple; }
-  to { text-shadow: 0 0 20px magenta, 0 0 40px purple; }
-}
-</style>
 
 ## 🗣️ Languages I Use
 
