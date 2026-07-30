@@ -27,6 +27,6 @@
 - 🔭 Working on: React Projects
 - 📚 Learning: AWS Deployment 
 -  Fun fact: I play football..⚽
--  Creativity - Sketching, Poetry Writing
+-  Creativity - Sketching, Poetry Writing✍
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
  
