@@ -23,10 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhinav-anand-407133279/) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abhinavanandptr456@gmail.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinavanandptr456@gmail.com) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ABHI☯️💫&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ABHI☯️💫&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ABHI☯️💫&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats:
 ![](-https://github-readme-stats.vercel.app/api?username=octocat&theme=radical)
 ![](+https://github-stats-extended.vercel.app/api?username=octocat&theme=radical)
 
