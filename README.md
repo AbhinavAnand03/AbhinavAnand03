@@ -21,20 +21,6 @@
 
 ![Hindi](https://img.shields.io/badge/Hindi-%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-orange?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-blue?style=for-the-badge)
-## 📊 GitHub README Stats
-
-<div align="center">
-
-  <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavAnand03&show_icons=true&theme=radical" alt="GitHub Stats"/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavAnand03&layout=compact&theme=tokyonight" alt="Top Languages"/>
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavAnand03&theme=dark&hide_border=true" alt="GitHub Streak"/>
-
-</div>
 
 ## 🔥 GitHub Streak 
 ## 📅 Current Focus
