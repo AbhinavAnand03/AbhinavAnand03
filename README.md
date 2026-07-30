@@ -20,7 +20,7 @@
 
 ## ✨ Enchanted GitHub Stats
 
-<div align="center">
+<div align="right-corner">
   <h2 id="glowStats">🌌 Aura‑Infused Stats</h2>
 
 ## 🗣️ Languages I Use
