@@ -14,10 +14,7 @@
 
 <div align="center">
   <h2 id="glowStats">🌌 Aura‑Infused Stats</h2>
-  
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  
+ 
 
 ## 🗣️ Languages I Use
 
