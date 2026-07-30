@@ -22,7 +22,7 @@
 
 > Enter the realm of shadows and fire — where the **Black Aura Dragon** reigns supreme.
 
-![Black Aura Dragon](https://github.com/AbhinavAnand03/AbhinavAnand03/raw/main/images/black-aura-dragon.png)
+![Black Aura Dragon](https://github.com/AbhinavAnand03/AbhinavAnand03/raw/main/dragon.png/black-aura-dragon.png)
 
 ### ⚔️ Game Concept
 - 🕹️ **Genre:** Action / Fantasy
