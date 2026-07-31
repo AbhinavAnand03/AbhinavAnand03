@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="coding" src="https://github.com/user-attachments/assets/b17d8c02-27d7-4cd8-9c25-8a690a7dd93a" />
+
 # Hi there 👋, I'm Abhi
 
 ## 🚀 About Me
