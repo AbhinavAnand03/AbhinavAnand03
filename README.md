@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Abhi
-
+---
 ## 🚀 About Me
 - 🌱 Learning Web Development & Machine Learning
 - 💻 Building projects with React, Python, HTML, CSS, and JavaScript 
@@ -32,9 +32,6 @@
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-##   Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AbhinavAnand03&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=AbhinavAnand03&icon=0&color=orange)](https://visitcount.itsvg.in)
