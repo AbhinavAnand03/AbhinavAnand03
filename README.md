@@ -28,7 +28,7 @@
 
 
 ## 📊 GitHub Stats
-
+<img src="https://github-readme-stats.vercel.app/api?username=AbhinavAnand03&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="AbhinavAnand03's GitHub Stats" />
 ## 🏆 GitHub Trophies
 ![](https://trophygithubreadmelang.cybee.dpdns.org/?username=AbhinavAnand03&theme=darkl&no-frame=false&no-bg=true&margin-w=4)
 
