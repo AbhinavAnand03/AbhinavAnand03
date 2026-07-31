@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Abhi
+ Hi there 👋, I'm Abhi
 ---
 ## 🚀 About Me
 - 🌱 Learning Web Development & Machine Learning
@@ -25,12 +25,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](Gmailto:abhinavanandptr456@gmail.com) 
 
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AbhinavAnand03&custom_title=Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=AbhinavAnand03&custom_title=Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://trophygithubreadmelang.cybee.dpdns.org/?username=AbhinavAnand03&theme=darkl&no-frame=false&no-bg=true&margin-w=4)
 
-## ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
