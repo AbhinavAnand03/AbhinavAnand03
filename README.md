@@ -25,12 +25,9 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abhinavanandptr456@gmail.com) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](Gmailto:abhinavanandptr456@gmail.com) 
 
-## 📊 GitHub Stats
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhinavAnand03&show_icons=true&theme=radical)
 
-## 🔥 Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavAnand03&layout=compact&theme=radical)
-
+### 📊 GitHub Stats
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AbhinavAnand03&custom_title=Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=AbhinavAnand03&custom_title=Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)
 ### 🏆 GitHub Trophies
 ![](https://trophygithubreadmelang.cybee.dpdns.org/?username=AbhinavAnand03&theme=darkl&no-frame=false&no-bg=true&margin-w=4)
 
